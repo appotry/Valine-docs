@@ -1,9 +1,9 @@
 ---
-title: 在Hexo中使用
+title: 在 Hexo 中使用
 ---
-目前，已有部分Hexo主题内置了Valine 评论系统，更多的主题正在逐步增加中(由于个人精力有限，内置Valine的PR将不定时提交)。
+目前，已有部分 Hexo 主题内置了 Valine 评论系统，更多的主题正在逐步增加中（由于个人精力有限，内置 Valine 的 PR 将不定时提交）。
 
-当然，我们也欢迎更多开发者自主的提交PR 😄
+当然，我们也欢迎更多开发者自主的提交 PR 😄
 
 ## hexo-theme-bamboo
 > [Supported](https://github.com/yuang01/hexo-theme-bamboo) `latest`
@@ -127,3 +127,12 @@ title: 在Hexo中使用
 
 ## Hexo-Theme-MengD
 > [Supported](https://github.com/lete114/hexo-theme-MengD) `latest`
+
+## hexo-theme-onenote
+> [Supported](https://github.com/Alanrk/hexo-theme-onenote) `latest`
+
+## hexo-theme-nexmoe
+> [Supported](https://github.com/theme-nexmoe/hexo-theme-nexmoe) `latest`
+
+## Hexo-Theme-flexblock
+> [Supported](https://github.com/miiiku/hexo-theme-flexblock) `latest`

@@ -1,6 +1,18 @@
 ---
 title: Change Log
 ---
+## v1.5.3, 2024-12-15
+- `F` Fixed `QQ nickname` retrieval failure #[432](https://github.com/xCss/Valine/issues/432)
+- `F` Fixed Chinese domain name detection failure
+- `F` Fixed SDK link expiration
+- `U` Optimized CDN address from `elemecdn` to `jsdelivr`
+
+## v1.5.2, 2024-07-22  
+- `A` Added `onCommentSubmmited` callback for customizing operations after comment submission [#431](https://github.com/xCss/Valine/issues/431)
+- `U` Optimized CDN address from `unpkg` to `elemecdn` [#404](https://github.com/xCss/Valine-Docs/issues/404) 
+- `U` Optimized the character limit when the nickname is required [#361](https://github.com/xCss/Valine/issues/361)
+- `F` Fixed the issue of IP address retrieval failure
+
 
 ## v1.5.0, 2022-06-24
 - `U` Optimize code logic, add support for `Windows 11`  
